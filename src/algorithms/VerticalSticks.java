@@ -1,12 +1,12 @@
 package algorithms;
 
-/**
- * Created by David Ocumarez on 1/30/17.
- */
 import java.io.*;
 import java.util.*;
 import java.text.*;
 
+/**
+ * To compile in Hackerrank must change the class name to Solution
+ */
 public class VerticalSticks{
     public static void main(String[] args) throws IOException{
         StringBuffer sb = new StringBuffer();

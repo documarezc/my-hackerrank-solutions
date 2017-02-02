@@ -2,6 +2,9 @@ package data_structures;
 
 import java.util.*;
 
+/**
+ * To compile in Hackerrank must change the class name to Solution
+ */
 public class ArraysLeftRotation {
 
     public static int[] arrayLeftRotation(int[] a, int n, int k) {
